@@ -1,0 +1,2 @@
+model_checkpoint_path: "i_am_a_joke.model-200"
+all_model_checkpoint_paths: "i_am_a_joke.model-200"
